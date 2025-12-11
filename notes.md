@@ -1,1 +1,4 @@
-Line A-local- changed on GitHub
+
+Line A- final resolved version
+
+
